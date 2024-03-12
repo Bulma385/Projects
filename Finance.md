@@ -1,4 +1,4 @@
-# Finance Project
+ # Finance Project
 
 # 1. Module: Basic Excel Spredsheet
 
@@ -15,7 +15,7 @@ provide overview over all transactions; adds all transaction of same stock toget
 
 #### Advanced: 
 Plot of Stock Price Chart, Indicators (RSI, 20/50MA, Stochastic MA, Deatch Cross etc, Fear & Greed),
-Earnings, KGV, Growth
+Earnings, KGV, Growth ..
 
 # 2. Module: VBA Macros Buttons
 
