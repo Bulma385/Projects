@@ -1,6 +1,6 @@
  # Finance Project
 
-# 1. Module: Basic Excel Spredsheet
+## 1. Module: Basic Excel Spredsheet
 
 ### Transactions Page:
 track each individual transaction (Investor, Date, Stock (Ticker), Buy/Sell, Units, Split, Units after Split,
@@ -17,6 +17,6 @@ provide overview over all transactions; adds all transaction of same stock toget
 Plot of Stock Price Chart, Indicators (RSI, 20/50MA, Stochastic MA, Deatch Cross etc, Fear & Greed),
 Earnings, KGV, Growth ..
 
-# 2. Module: VBA Macros Buttons
+## 2. Module: VBA Macros Buttons
 
-# 3. Module: Python Backend
+## 3. Module: Python Backend
